@@ -1,2 +1,2 @@
 # giang123.github.io
-mamicay
+Learning GitHub is fun.
